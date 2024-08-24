@@ -1,9 +1,10 @@
 # Stopwatch – Class for checking delays during code execution
 
-[![Latest Stable Version](http://poser.pugx.org/seraph90/stopwatch/v)](https://packagist.org/packages/seraph90/stopwatch)
-[![Total Downloads](http://poser.pugx.org/seraph90/stopwatch/downloads)](https://packagist.org/packages/seraph90/stopwatch)
-[![License](http://poser.pugx.org/seraph90/stopwatch/license)](https://packagist.org/packages/seraph90/stopwatch)
-[![PHP Version Require](http://poser.pugx.org/seraph90/stopwatch/require/php)](https://packagist.org/packages/seraph90/stopwatch)
+![GitHub Release](https://img.shields.io/github/v/release/alex-heifetz/stopwatch)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/packagist/dt/alex-heifetz/stopwatch)
+![GitHub License](https://img.shields.io/github/license/alex-heifetz/stopwatch)
+![Packagist Dependency Version](https://img.shields.io/packagist/dependency-v/alex-heifetz/stopwatch/php)
+
 
 ## Why you might need this
 If you don’t want to use complex tools for code profiling, but just need to find a place that slows down the execution of all code.
@@ -12,7 +13,7 @@ If you don’t want to use complex tools for code profiling, but just need to fi
 Just add this line to your `composer.json` file:
 
 ```json
-"seraph90/stopwatch": "^1.0"
+"alex-heifetz/stopwatch": "^1.0"
 ```
 
 or run
